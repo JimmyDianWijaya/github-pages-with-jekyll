@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Welcome to Jimmy's Blog
 
-I'm glad you are here. I plan to talk about ...
+I am a Junior Business Analyst, love providing data-driven insights using 
+SQL, Python, Excel and Tableau 
